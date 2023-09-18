@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<head>
+<title>Races</title>
+</head>
+
+
+
+<body background="dragon.jpg">
+<font color=Gold>
+<h1 align =center>DUNGEONS & DRAGONS</h1>
+</font>
+<hr>
+<center>
+<table border=6 bgcolor=lightgrey cellpadding=10 width=75%>
+<th><a href="races2.html">RACES</a></th>
+<th><a href="22GRACIA.html">GO BACK</a></th>
+<th><a href= "forms.html">FORMS</a></th>
+<th><a href="about.html">ABOUT ME</a></th>
+</table>
+</center>
+<hr>
+
+<h2><strong><font color=gold><center>Abilities and skills</h2></strong></font></center>
+
+<html>
+		<head>
+			<meta charset = "utf-8">
+			<title>STATS OF SKILLS</title>
+		</head>
+		
+		<body>
+			<!-- the <table> tag opens a table -->
+			<table border = "5">
+			
+			
+				<caption><strong><font color=white>SKILLS/STATS(1st column) and
+					Amount of their Damage (2nd column)</font></strong></caption>
+				
+				<thead>
+					<tr> 
+						<table style="background-color:#FFFFE0;">
+						<tr style="background-color:#BDB76B;color:#ffffff;">
+						<th><font color=gold>SKILLS</font></th> 
+						<th><font color=gold>DESCRIPTION</font></th>
+					</tr>
+				</thead>
+				
+				
+				
+				<tbody><font color=white>
+					<tr>
+						<td><font color=white>Abi-Dalzim’s Horrid Wilting</font></td> 
+						<td><font color=white>An eight-level spell available to sorcerers and wizards, Abi-Dalzim's Horrid Wilting is a spell that deals massive sums of damage by attempting to absorb all moisture from a chosen area.</font></td>
+					</tr>
+					<tr>
+						<td><font color=white>Storm Of Vengeance</td>
+						<td><font color=white>Storm of Vengeance is a highly underrated Druid spell that is capable of amassing a great deal of damage over the course of numerous turns. Creating a raging storm, as each turn passes, the effects vary as the storm rages.</font></td>
+					</tr>
+					<tr>
+						<td><font color=white>Time Ravage</td>
+						<td><font color=white>A spell available to Chronurgy Wizards, Time Ravage is an immensely powerful offensive ninth level spell.</font></td>
+					</tr>
+					<tr>
+						<td><font color=white>Finger Of Death</td>
+						<td><font color=white>One of the most iconic spells of the school of Necromancy, Finger of Death is synonymous with high-damaging spells of Dungeons & Dragons. While the rolled damage of Finger of Death may be lower than that of Time Ravage, dealing 7D8 in addition to the spell's rolled damage, Finger of Death also deals an additional guaranteed damage!</font></td>
+					</tr>
+					<tr>
+						<td><font color=white>Disintegrate</font></td> 
+						<td><font color=white>Like Finger of Death, Disintegrate is a highly impactful damaging spell that allows its caster to deal a guaranteed chunk of damage in addition to the spell's rolled damage. </font></td>
+					</tr>
+					<tr>
+						<td><font color=white>Power Word Kill</font></td> 
+						<td><font color=white>Technically, Power Word Kill doesn't deal damage, though its effect is so similar to dealing damage that it has made this list. With a range of sixty feet, when Power Word Kill is cast, it can cause any target within 60 feet that has less that 100 HP to immediately die.</font></td>
+					</tr>
+					<tr>
+						<td><font color=white>Ravenous Void</font></td> 
+						<td><font color=white>A ninth level spell, Ravenous Void is capable of creating a gravitational force in a chosen area that is capable of dealing enormous amounts of damage over the course of a battle. Once this radius is selected, creatures are required to making saving throws or be pulled into it.</font></td>
+					</tr>
+					<tr>
+						<td><font color=white>Dark Star</font></td> 
+						<td><font color=white>An eighth level spell available to Graviturgy Wizards, Dark Star has a great deal in common with Ravenous Void. When this spell is cast, it creates a radius of 40 feet. This radius is made into difficult terrain, muting this area and filling it with magical darkness.
+
+						Whenever a creature enters this radius or starts its turn in this radius, they must make a constitution saving throw, sustain 8D10 of force damage on a failed save, and half as much on a success. Like Ravenous Void, this means that if this radius is created on top of a creature, they are capable of suffering 16D10 of damage.</font></td>
+					</tr>
+					<tr>
+						<td><font color=white>Crown Of Stars</font></td> 
+						<td><font color=white>A spell that was added to D&D in Xanathar's Guide to Everything, Crown of Stars creates seven star-like orbs that can be each be spent to deal 4D12 of Radiant Damage to a creature within 120 feet of the caster.</font></td>
+					</tr>
+					<tr>
+						<td><font color=white>Meteor Swarm</font></td> 
+						<td><font color=white>Creating a forty-foot radius, each creature unfortunate enough to find themselves in the way of this spell must roll a dexterity saving throw. Creatures that fail this save are dealt a massive 20D6 of bludgeoning damage AND and additional 20D6 of fire damage!</font></td>
+					</tr>
+				</font>
+				</tbody>
+			</table>
+		</body>
+	</html>
+
+
+
+
+<html>
+		<head>
+			<meta charset = "utf-8">
+			<title>Tables</title>
+		</head>
+		
+		
+		
+		<body>
+			<hl><center><font color=gold><strong>OTHER MAGIC SKILLS</strong></font></center></hl>
+			
+			<table border = "5">
+				<h5><font color=gold><center>As illustrated in D&D's</h5></font>
+				
+		<thead>
+			<!-- rowspans and colspans merge the specified -->
+			<!-- number of cells verticaly or horizontally -->
+			<tr>
+				<!-- merge two rows -->
+				<th rowspan = "2">
+					<img src = "heal.jpg" width "205"
+						height = "167" alt = "Picture of a "
+				</th>
+				
+				<!-- merge four columns -->
+				<th colspan = "4">
+					<strong><font color=gold>MASS HEAL</font></strong><br>
+				    <italic><font color=white>Courtesy of DND Book Guide</font></italic>
+				</th>
+			</tr>
+			<tr>
+				<th><font color=gold>Range</font></th>
+				<th><font color=gold>Target</font></th>
+				<th><font color=gold>Classes</font></th>
+				<th><font color=gold>Duration</font</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th><font color=red>Mass Heal</font></th>
+				<td><font color=white>60 Feet</font></td>
+				<td><font color=white>Any number of creatures that you can see within range</font></td>
+				<td><font color=white>Cleric</font></td>
+				<td><font color=white>Instantaneous</font></td>
+			</tr>
+
+
+
+				
+		<thead>
+			<!-- rowspans and colspans merge the specified -->
+			<!-- number of cells verticaly or horizontally -->
+			<tr>
+				<!-- merge two rows -->
+				<th rowspan = "2">
+					<img src = "fly.jpg" width "205"
+						height = "167" alt = "Picture of a "
+				</th>
+				
+				<!-- merge four columns -->
+				<th colspan = "4">
+					<strong><font color=gold>FLY</font></strong><br>
+				    <italic><font color=white>Courtesy of DND Book Guide</font></italic>
+				</th>
+			</tr>
+			<tr>
+				<th><font color=gold>Range</font></th>
+				<th><font color=gold>Target</font></th>
+				<th><font color=gold>Classes</font></th>
+				<th><font color=gold>Duration</font</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th><font color=red>Fly</font></th>
+				<td><font color=white>Touch</font></td>
+				<td><font color=white>A willing creature</font></td>
+				<td><font color=white>Sorcerer, Warlock, Wizard</font></td>
+				<td><font color=white>Concentration, up to 10 minutes</font></td>
+			</tr>
+
+				

@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<head>
+<title>Races</title>
+</head>
+
+
+
+<body background="dragon.jpg">
+<font color=Gold>
+<h1 align =center>DUNGEONS & DRAGONS</h1>
+</font>
+<hr>
+<center>
+<table border=6 bgcolor=lightgrey cellpadding=10 width=75%>
+<th><a href="races2.html">RACES</a></th>
+<th><a href="stats.html">STATS</a></th>
+<th><a href= "22GRACIA.html">GO BACK</a></th>
+<th><a href="about.html">ABOUT ME</a></th>
+</table>
+</center>
+<hr>
+
+
+<!DOCTYPE html>
+
+	<html>
+		<head>
+			<meta charset = "utf-8">
+			<title>Forms</title>
+		</head>
+		
+		<body>
+			<hl><center><font color=gold>Feedback Form</font></center></hi>
+			
+			<p><center><font color=gold>Please answer the following
+			for better engagement and help further
+			the site.</center></font></p>
+			
+			<!-- this tag starts the formm, gives the-->
+			<!-- --> method of sending information and the -->
+			<!-- location of the form-processing script -->
+			<form method = "post" action = "http://www.dnd.wizards.com">
+				<!-- hidden inputs contain non-visual-->
+				<!-- informationt that will also be submitted -->
+				<input type = "hidden" name = "recipient"
+					value = "DND@gmail.com">
+				<input type = "hidden" name = "subject"
+					value = "feedback Form">
+				<input type = 'hidden" name = "redirect"
+					value = "22GRACIA.html">
+					
+				<1-- <input type = "text"> inserts a text field -->
+				<p><lable>Name:
+					<Input name = "name"> type = "text" size "25"
+					maxlength = "30"
+					
+				<p>
+				<!-- input types "submit" and "reset" insert --> 
+				<!-- buttons for submitting and clearing the -->
+				<!--form's contents, respectively --> 
+				<input type="submit" value="Submit">
+				<input type - "reset" value - "Clear">
+			</p> 
+		</form> 
+	</body>
+
+<html>
+		<head>
+			<meta charset="utf-8">
+			<title><center><font color=white>More Forms</font></center></title> 
+		</head>
+
+		<body>
+			<h1><font color=gold><center>Feedback Form</font></center></h1> 	
+			<p><font color=gold><center>Please fill out this form to help
+				us improve our site.</center></font></p>
+				
+			<form method - "post" action - "http://www.dnd.wizards.com">
+			
+				<input type="hidden" name="recipient
+					value = "DND@gmail.com">
+				<input type="hidden" name="subject"
+					value = "Feedback Form">					
+				<input type="hidden" name="redirect"
+					value - "22GRACIA.html">
+					
+			<p><label><font color=gold>Name:
+					<input name - "name" type="text" size="25"> 
+				</font></label></p>
+				
+			<!-- <textarea> creates a multiline textbox -->
+			<p><label><font color=gold>Comments: <br>
+				<textarea name = "comments"
+					rows - "4" cols = "36">Enter comments here.</font></textarea> 
+			</label></p>
+			
+			<!-- <input type = "password"> inserts a -->
+			<!-- textbox whose display is masked with --> 
+			<!-- asterisk characters -->
+			<p><label>E-mail Address:
+				<input name = "email" type = "password" size = "25">
+			</label></p>
+			
+			<p>
+				<strong>Things you liked:</strong><br>
+				
+				<label>Site design 
+					<input name = "things liked" type = "checkbox"
+						value - "Design"></label>
+						<label>Links 
+						<input name = "things liked" type = "checkbox"
+							value = "Links"></label>
+						<label>Ease of use
+						<input name - "thingsliked" type - "checkbox"
+							value - "Ease"></label>
+						<label>Images 
+							<input name = "thingsliked" type = "checkbox"
+							value - "Images"></label> 
+						<label>Source code
+							<input name - "things liked" type="checkbox"
+								value = "Code"></label> 
+					</p>
+					<!-- <input type="radio"> creates a radio -->
+					<!-- button. The difference between radio buttons -->
+					<!-- and checkboxes is that only one radio button -->
+					<!-- in a group can be selected. --> 
+					<p>
+						<strong>How did you get to our site?:</strong><br>
+						
+						<label>Search engine
+							<input name - "howtosite" type="radio"
+								value="search engine" checked></label>
+					
+					<label>Links from another site
+						<input name = "howtosite" type="radio"
+							value = "link"></label> 
+					<label>Deitel.com Web site
+						<input name - "howtosite" type="radio"
+							value="deitel.com"></label>
+					<label>Reference in a book
+						<input name = "howtosite" type="radio"
+							value - "book"></label>
+							<label>Other <input name = "howtosite" type="radio"
+							value="other"></label> 
+						</p>
+						
+                     <p>
+						<label><font color=gold>Rate our site:
+							<!-- the <select> tag presents a drop-down -->
+							<!-- list with choices indicated by the -->
+							<!-- <option> tags -->
+						<select name = "rating">
+							<option selected>Amazing</option> 
+							<option>10</option>
+							<option>9</option> 
+							<option>8</option>
+							
+							
+							<option>7</option> 
+							<option>6</option>
+							<option>5</option>
+							<option>4</option> 
+							<option>3</option> 
+							<option>2</option>
+							<option>1</option>
+							<option>Awful</option> 
+						</select> 
+					</label>
+				</font>
+				</p>
+
+
+				<p>
+					<input type = "submit" value = "Submit">
+					<input type = "reset" value = "Clear"> 
+				</p>
+			</form>
+		</body> 
+	</html>
+								
+<!DOCTYPE html>
+
+<!-- Fig. 3.1: newforminput types.html -->
+ <!-- New HTML5 form input types and attributes. -->
+ <html> 
+	<head>
+		<meta charset="utf-8">
+		<title>22GRACIAARMANSTEVEND31</title> 
+	</head>
+	
+	<head>
+		<meta charset="utf-8">
+		<title>NEW HTML5 Input Type</title> 
+	</head>
+
+	<body>
+		<h1>New HTML5 Input Types Demo</h1> 	
+		<p>This form demonstrates the new HTML5 input types
+			and the placeholder, required and autofocus attributes. 	
+		</p>
+
+		<form method = "post" action = "http://www.deitel.com"> 
+		<p>
+			<label>Color: <input type - "color" autofocus />
+				(Hexadecimal code such as #ADD8E6) 	
+			</label> 
+		</p>
+		
+		<p>
+			<label>Date: 
+				<input type = "date" />
+					(yyyy-mm-dd)						
+				</label> 
+			</p> 
+			<p> 
+				<label>Datetime: 
+				<input type - "datetime" />
+					(yyyy-mm-ddThh:mm+ff:gg, such as 2012-01-27T03:15)
+				</label> 
+			</p> 
+			<p> 
+				<label>Datetime-local:
+				<input type = "datetime-local" />
+					(yyyy-mm-ddThh:mm. such as 2012-01-27T03:15)
+				</label>
+			</p> 
+			<p> 
+				<label>Email: 
+				<input type - "email" placeholder - "name@domain.com"
+					required /> (name@domain.com)			
+				</label> 	
+			</p>
+			
+			<p>
+				<label>Month:
+					<input type = "month" /> (yyyy-mm)
+				</label> 
+			</p>
+			<p> 
+				<label>Number: 
+					<input type = "number"
+						min = "0"	 
+						max = "7" 
+						step = "1"
+						value = "4" /> 
+				</label> (Enter a number between 0 and 7)
+				</p> 
+			<p> 
+				<label>Range: 
+					0 <input type = "range"
+						min - "0"
+						max = "20"
+						value = "10" /> 20
+					</label> 
+				</p>
+				
+				<p> 
+					<label>Search:
+						<input type="search" placeholder - "search query" />
+					</label> (Enter your search query here.)
+				</p> 
+				<p>
+					<label>Tel:
+						<input type = "tel" placeholder = "(###) ###-####"
+						pattern = "\(\d{3}\) +\d{3}-\d{4}" required />
+							(###) ### ####
+					</label> 
+				</p>
+				<p> 
+					<label>Time:
+						<input type = "time" /> (hh:mm:ss.ff) 
+					</label>
+				</p>
+				<p>
+					<label>URL: <input type - "url"
+						placeholder - "http://www.domainname.com" />
+						(http://www.domainname.com)
+					</label> 
+					
+					
+					
+					

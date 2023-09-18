@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Home</title>
+</head>
+
+<body background="dragon.jpg">
+<font color=Gold>
+<h1 align =center>DUNGEONS & DRAGONS</h1>
+</font>
+<hr>
+<center>
+<table border=6 bgcolor=scarletred width=50%>
+<th>RACES</th>
+<th>SKILLS</th>
+<th>ARMORS</th>
+<th>ABOUT CREATOR</th>
+</table>
+</center>
+<hr>
+</body>
+</html>
